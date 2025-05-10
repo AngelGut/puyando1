@@ -14,7 +14,7 @@ namespace puyando1
             Console.WriteLine("subeeeee");
             Console.WriteLine("El Negro Roba");
             Console.WriteLine("hgh");
-
+            Console.WriteLine("puto el que lo lea");
         }
     }
 }
