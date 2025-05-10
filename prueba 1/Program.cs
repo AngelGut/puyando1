@@ -12,6 +12,8 @@ namespace puyando1
 
             Console.WriteLine("no quiere subir");
             Console.WriteLine("subeeeee");
+            Console.WriteLine("El Negro Roba");
+            Console.WriteLine("hgh");
 
         }
     }
