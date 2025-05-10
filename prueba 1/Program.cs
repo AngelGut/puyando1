@@ -9,6 +9,10 @@ namespace puyando1
             Console.WriteLine("hola");
             Console.WriteLine("puyando");
             int a = 5;
+
+            Console.WriteLine("no quiere subir");
+            Console.WriteLine("subeeeee");
+
         }
     }
 }
