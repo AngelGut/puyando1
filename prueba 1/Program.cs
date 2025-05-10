@@ -16,7 +16,7 @@ namespace puyando1
             Console.WriteLine("hgh");
             Console.WriteLine("puto el que lo lea");
 
-            Console.WriteLine("pruebas en el master");
+            Console.WriteLine("pruebas en el master lineal");
         }
     }
 }
